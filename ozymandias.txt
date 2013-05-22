@@ -1,3 +1,6 @@
+# Ozymandias
+by Percy Bysshe Shelley
+
 I met a traveler from an antique land who said
 Two vast and trunkless legs of stone
 Stand in the desert. Near them on the sand
@@ -6,4 +9,12 @@ Whose frown and wrinkled lip and sneer of cold command
 Tell that its sculptor well those passions read
 Which yet survive, stamped on these lifeless things
 The hand that mocked them, and the heart that fed
+And on the pedestal these words appear: 
+"My name is Ozymanias, king of kings.
+Look on my works, ye mighty, and despair."
+Nothing beside remains.
+Round the decay of that collossal wreck,
+Boundless and bare, the lone and level sands
+Stretch far away
 
+King of Kings
